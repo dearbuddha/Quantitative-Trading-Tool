@@ -2,8 +2,11 @@
 ##### A tool for quantitative research and trading
 
 **GUI_QuantTradeSys.py**: User interface, event trigger
+
 **StockDataMod.py**: Stock API, data acquiring and processing
+
 **IndicatStrateMod.py**: Stock indicator calculating and strategy implementing
+
 **RedefPanelMod.py**: Data visualizing
 
 ### Quotes
